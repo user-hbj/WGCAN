@@ -4,7 +4,7 @@
 
 # Requirements
 - Python 3.6
-- Pytorch 1.3
+- Pytorch 1.10.1
 - RawPy 0.13.1
 - SciPy 1.0.0
 # Dataset
