@@ -1,5 +1,5 @@
 # WGCAN: Wavelet-Guided Channel Attention Network for low light Image Denoising and Demosaicing
-![](https://sm.ms/image/egKuwXZjaIxU6Jr)
+![](https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/images/fig1.png)
 
 
 # Requirements
