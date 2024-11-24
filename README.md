@@ -1,5 +1,5 @@
 # WGCAN: Wavelet-Guided Channel Attention Network for low light Image Denoising and Demosaicing
-![This code includes the default model for training and testing on the See-in-the-Dark (SID) dataset.](https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/images/fig1.png))
+![](https://github.com/cchen156/Learning-to-See-in-the-Dark/blob/master/images/fig1.png))
 
 # Requirements
 - Python 3.6
